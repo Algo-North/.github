@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="328" viewBox="0 0 1280 328" role="img" aria-labelledby="title desc">
+<title id="title">Three disciplines. One connected system.</title><desc id="desc">Automation: workflows, integrations, data pipelines. Intelligence: AI services, assistants, retrieval. Digital products: web applications, APIs, internal tools.</desc>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="1" y="1" width="410" height="326" rx="14" fill="#f5f8fc" stroke="#dbe4ef"/><rect x="435" y="1" width="410" height="326" rx="14" fill="#f5f8fc" stroke="#dbe4ef"/><rect x="869" y="1" width="410" height="326" rx="14" fill="#f5f8fc" stroke="#dbe4ef"/>
+<g fill="none" stroke="#0777d6" stroke-width="2"><rect x="32" y="32" width="48" height="48" rx="10"/><path d="M43 48H65V64H43Z M49 43V69 M59 43V69"/><rect x="466" y="32" width="48" height="48" rx="10"/><path d="M490 41L495 51L505 56L495 61L490 71L485 61L475 56L485 51Z"/><rect x="900" y="32" width="48" height="48" rx="10"/><path d="M910 48H938V68H910Z M910 54H938"/></g>
+<g fill="#7688a3" font-size="13" letter-spacing="2"><text x="352" y="60">01</text><text x="786" y="60">02</text><text x="1220" y="60">03</text></g>
+<g fill="#071c4b" font-size="30" font-weight="700" letter-spacing="-.8"><text x="32" y="130">Automation</text><text x="466" y="130">Intelligence</text><text x="900" y="130">Digital products</text></g>
+<g fill="#435571" font-size="18"><text x="32" y="171">Less busywork.</text><text x="32" y="200">Better-connected systems.</text><text x="466" y="171">AI with a purpose.</text><text x="466" y="200">Built into the way you work.</text><text x="900" y="171">Clear interfaces.</text><text x="900" y="200">Solid foundations underneath.</text></g>
+<g stroke="#dbe4ef"><path d="M32 244H378M466 244H812M900 244H1246"/></g>
+<g fill="#1763a8" font-size="13"><text x="32" y="280">WORKFLOWS / INTEGRATIONS / DATA</text><text x="466" y="280">ASSISTANTS / RETRIEVAL / AI SERVICES</text><text x="900" y="280">WEB APPS / APIs / INTERNAL TOOLS</text></g>
+</g></svg>
