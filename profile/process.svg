@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-labelledby="title desc">
+<title id="title">Understand. Design. Build. Refine.</title><desc id="desc">Our approach: map the real problem, make the system clear, ship focused changes, and improve through use.</desc>
+<rect width="1280" height="230" rx="14" fill="#061738"/>
+<path d="M58 71H1218" stroke="#244268"/><path d="M58 71H1218" stroke="#1f8eef" stroke-dasharray="4 12"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<g fill="#0b315d" stroke="#31a7f6"><circle cx="58" cy="71" r="17"/><circle cx="375" cy="71" r="17"/><circle cx="692" cy="71" r="17"/><circle cx="1009" cy="71" r="17"/></g>
+<g fill="#c3ecff" font-size="12" text-anchor="middle"><text x="58" y="75">01</text><text x="375" y="75">02</text><text x="692" y="75">03</text><text x="1009" y="75">04</text></g>
+<g fill="#f0f6ff" font-size="25" font-weight="700"><text x="41" y="133">Understand</text><text x="358" y="133">Design</text><text x="675" y="133">Build</text><text x="992" y="133">Refine</text></g>
+<g fill="#a7bbd6" font-size="16"><text x="41" y="169">Map the real problem.</text><text x="358" y="169">Make the system clear.</text><text x="675" y="169">Ship focused changes.</text><text x="992" y="169">Improve through use.</text></g>
+</g></svg>
